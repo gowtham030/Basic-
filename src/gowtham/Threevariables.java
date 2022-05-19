@@ -6,7 +6,7 @@ public class Threevariables {
 	int a=10;
 	int b=20;
 	int c=30;
-	int d;aazfvvvvv
+	int d;
 	d=a;
 	a=b;
 	b=c;
