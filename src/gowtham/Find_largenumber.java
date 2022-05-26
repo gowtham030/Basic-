@@ -3,7 +3,7 @@ package gowtham;
 public class Find_largenumber {
 
 	public static void main(String[] args) {
-	int mark=88;
+	int mark=98;
 	if (mark>=0&&mark<=39) {
 		System.out.println("Grade'F'");
 	}
