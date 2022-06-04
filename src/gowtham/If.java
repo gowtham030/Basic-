@@ -1,17 +1,20 @@
 package gowtham;
 
 public class If {
-
+	static int emp_id=850725;
 	public static void main(String[] args) {
-	int n=50;
-	if (n<40)
-	{
-		System.out.println("lessthan");
-	}
-	else {
-		System.out.println("Greterthan");
-	}
+		{
+			
+			{
+				int x=855029;
+				System.out.println("x value="+x);
+				System.out.println("global x value"+If.x);
+			}
+			System.out.println("x value"+x);
+			
+		}
 
 	}
 
 }
+ 
